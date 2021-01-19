@@ -18,23 +18,21 @@ An old office PC would provide sufficient computing power to run games on those 
 𝗖𝗣𝗨:  Intel Core i5-2400 <br>
 𝗥𝗔𝗠: 4 GB (1 x 4 GB)<br>
 𝗛𝗗𝗗: 640 GB Western DigitalHard Drive Disk<br>
-𝗢𝗦: Ubuntu 20.04.01 LTS<br>
+𝗢𝗦: Ubuntu 20.04.01 LTS<br><br>
 
-![Picture of PC Specs](ProjectScreenshots/PC Specs.jpg)<br><br>
-Picture of the PC specs viewed in the Computer Summary
+#### Picture of the PC specs viewed in the Computer Summary*
+![Picture of PC Specs](ProjectScreenshots/PC Specs.jpg)<br>
+#### The PC I used was a Lenovo ThinkCentre M81
+![Picture  of PC front](ProjectScreenshots/PC Front.jpg)<br>
 
-![Picture  of PC front](ProjectScreenshots/PC Front.jpg)<br><br>
- The PC I used was a Lenovo ThinkCentre M81
+#### I used a SNES style controller and a keyboard to configure the inputs for most of the systems. 
+![Picture  of PC front with controller](ProjectScreenshots/PC and Controller.jpg)<br>
 
-![Picture  of PC front with controller](ProjectScreenshots/PC and Controller.jpg)<br><br>
-I used a SNES style controller and a keyboard to configure the inputs for most of the systems. 
+#### There was not HDMI output so I had to use a Displayport to HDMI adapter to connect it to my TV
+![Picture of PC Back](ProjectScreenshots/PC Back.jpg)<br>
 
-![Picture of PC Back](ProjectScreenshots/PC Back.jpg)<br><br>
-There was not HDMI output so I had to use a Displayport to HDMI adapter to connect it to my TV
-
-![Picture of PC inside](ProjectScreenshots/PC inside.jpg)<br><br>
-There was no included storage when I picked up the PC, so I added a 640 GB Western Digital HDD as the boot drive and storage drive.
-
+#### There was no included storage when I picked up the PC, so I added a 640 GB Western Digital HDD as the boot drive and storage drive.
+![Picture of PC inside](ProjectScreenshots/PC inside.jpg)<br>
 
 
 # Live Demo
