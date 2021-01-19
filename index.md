@@ -20,8 +20,6 @@ An old office PC would provide sufficient computing power to run games on those 
 𝗛𝗗𝗗: 640 GB Western Digital Hard Drive Disk<br>
 𝗢𝗦: Ubuntu 20.04.01 LTS<br><br>
 
-#### Picture of the PC specs viewed in the Computer Summary
-![Picture of PC Specs](ProjectScreenshots/PC Specs.jpg)<br>
 #### The PC I used was a Lenovo ThinkCentre M81.
 ![Picture  of PC front](ProjectScreenshots/PC Front.jpg)<br>
 
