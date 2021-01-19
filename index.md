@@ -1,8 +1,8 @@
 ---
-title: Custom PC Builder | Java
-description: A simple payroll calculator that I developed in Java to output gross pay and net pay based on user inputted values of hourly payrate and hours worked.
-image: CustomPCbuilder.png
-youtubeId: wfpKIit3kJc                                       
+title: Retro Gaming System | Linux
+description: A Retro Gaming System that I configured using Retropie in Ubuntu 20.04.01 LTS.
+image: ProjectScreenshots/RetroGamingSystem.png
+youtubeId: dctKhohG0cQ                                      
 ---
 
 <link rel="stylesheet" type="text/css" href="video-embed.css">
