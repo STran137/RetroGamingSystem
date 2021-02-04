@@ -18,7 +18,7 @@ An old office PC would provide sufficient computing power to run games on those 
 𝗖𝗣𝗨:  Intel Core i5-2400 
 𝗥𝗔𝗠: 4 GB (1 x 4 GB)
 𝗛𝗗𝗗: 640 GB Western Digital Hard Drive Disk
-𝗢𝗦: Ubuntu 20.04.01 LTS<br>
+𝗢𝗦: Ubuntu 20.04.01 LTS
 
 #### Picture of the PC specs viewed in the Computer Summary
 ![Picture of PC Specs](ProjectScreenshots/PC Specs.jpg)<br>
