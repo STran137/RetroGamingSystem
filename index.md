@@ -32,6 +32,30 @@ An old office PC would provide sufficient computing power to run games on those 
 #### There was no included storage when I picked up the PC, so I added a 640 GB Western Digital HDD as the boot drive and storage drive.
 ![Picture of PC inside](ProjectScreenshots/PC inside.jpg)<br>
 
+# Intial Setup
+I decided to use Ubuntu as the main OS as I wanted to experience a Linux desktop environment and the apparent 'snappiness' that a Linux distro offers instead of Windows. Given that the PC only had 4 GB of memory, It ran quite well without any stutters. My experience with 4 GB of memory on Windows has been less stellar as opening multiple browser tabs and applications would show noticable lag. 
+
+After installing Ubuntu, I then installed RetroPie from the terminal using following lines.
+
+Update and upgrade the existing APT packages:
+
+```
+sudo apt update && sudo apt upgrade
+
+```
+
+Install the needed packages for the RetroPie setup script:
+
+```
+sudo apt install -y git dialog unzip xmlstarlet
+```
+Download the latest RetroPie setup script:
+
+```
+git clone --depth=1 https://github.com/RetroPie/RetroPie-Setup.git
+```
+
+I followed the documentation provided on RetroPie website to help download and setup the necessary files. 
 
 # Live Demo
 Click on the YouTube video to see a live demo of the Retro Gaming System!
