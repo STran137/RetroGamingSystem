@@ -15,10 +15,10 @@ I've always had a love for old school video games. The most cherished gaming mem
 An old office PC would provide sufficient computing power to run games on those more demanding systems. Luckily, I was able to pick up a cheap Lenovo ThinkCentre PC from a local listing and got to work configuring RetroPie on it. Although I have had experience setting up RetroPie on a Raspberry Pi, this is my first time installing it on an x86-based system. This project post details my experience working with a Linux-based PC and navigating through the setup using the terminal.
 
 # PC Specs
-𝗖𝗣𝗨:  Intel Core i5-2400 
-𝗥𝗔𝗠: 4 GB (1 x 4 GB)
-𝗛𝗗𝗗: 640 GB Western Digital Hard Drive Disk
-𝗢𝗦: Ubuntu 20.04.01 LTS
+𝗖𝗣𝗨:  Intel Core i5-2400 <br>
+𝗥𝗔𝗠: 4 GB (1 x 4 GB)<br>
+𝗛𝗗𝗗: 640 GB Western Digital Hard Drive Disk<br>
+𝗢𝗦: Ubuntu 20.04.01 LTS<br>
 
 #### Picture of the PC specs viewed in the Computer Summary
 ![Picture of PC Specs](ProjectScreenshots/PC Specs.jpg)<br>
