@@ -91,7 +91,8 @@ The final step after gathering resources is to generate the game lists. This pro
 And voila! After rebooting the system, a majority of the games had video previews and matching box art. There were a few that didn't have video previews or box art, so I used the default scraper to retrieve the remaining games. Check out the Live Demo to see it in action!
 
 # Customization
-The sky is the limit when it comes to customization and tailoring RetroPie. There's plenty of themes to choose from with a strong and talented community creating them on the daily. I opted to go for the Showcase theme as it allows video previews and was one of my personal favorites. 
+The sky is the limit when it comes to customization and tailoring RetroPie. There's plenty of themes to choose from with a strong and talented community creating them on the daily. I opted to go for the Showcase theme as it allows video previews and was one of my personal favorites.<br>
+
 ![Showcase ES Theme](https://retropie.org.uk/forum/assets/uploads/files/1500497478398-demo001.jpg)
 ##### I really like the clean layout and the description for each of the game systems is a nice touch. Credit to [dmmarti](https://retropie.org.uk/forum/topic/11723/new-theme-showcase-now-released)  for creating this theme and the screenshot. 
 
