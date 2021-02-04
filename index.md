@@ -99,10 +99,6 @@ I also selected the autostart option so that the system will automatically boot 
 
 ![Setup Screenshot 5](ProjectScreenshots/Setup 5.png)<br>
  
- I had time to also mess around with the Dolphin Emulator which emulates Wii and GameCube games. I used a spare PS3 controller to configure the inputs and was able to play a little bit of Wind Waker. Although, it would be best to have GameCube controller as some movements were awkward or didn't work it all.
-
-![Dolphin Controller Setup](ProjectScreenshots/Dolphin Controller Setup.png)<br>
-
 # Live Demo
 Click on the YouTube video to see a live demo of the Retro Gaming System!
 
